@@ -1,0 +1,60 @@
+#bigcercle{
+	width:60%;
+	margin:0 70px;
+	margin-top:20px;
+    margin-bottom:10px;
+	}
+	
+#bodylogo{
+	background-color:#0099FF;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#temps{
+	margin-left:140px;
+	font-weight:50px; 
+	
+	 
+}
+.imagelogo{
+text-align: center; 
+padding:34%;
+margin:0 10px;
+margin-top:70px;
+
+
+     
+}
+	
+#titre{ 
+
+font-size: 25px; 
+margin:0 142px;
+text-align: center; 
+
+
+}
+
+.progress {
+    position: absolute;
+    color: #bbb;
+    font-weight: 100;
+    line-height: 1;
+}
+.progress-wrapper{
+	position:relative;
+}
+#btn{
+	width:100%;
+	padding:0 50px;
+}
+#btn button:last-child{
+	float:right;
+	width:40%;
+}
+#btn button:first-child{
+	float:left;
+	width:40%;
+}
+
